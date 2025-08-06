@@ -1,4 +1,4 @@
-# HelpDesk Support System – API Testing (Freelance Project)
+# HelpDesk Support System – API Testing 
 
 This is a real-time freelance QA project that simulates API testing for a HelpDesk support system using the [ReqRes.in](https://reqres.in/) public API. The goal of the project is to test core ticketing system features such as login, user listing, create, update, and delete operations.
 
@@ -56,6 +56,6 @@ All APIs were tested using valid, invalid, and edge-case data. Test cases were p
 ## 🙋‍♂️ Author
 
 **Shasank Sinha**  
-Manual QA Tester | API Testing | Freelance Support Projects  
+Manual QA Tester | API Testing | 
 📧 [coolshasank.sinha@gmail.com](mailto:coolshasank.sinha@gmail.com)
 
