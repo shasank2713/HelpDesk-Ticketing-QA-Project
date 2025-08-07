@@ -197,7 +197,22 @@
 						"value": "reqres-free-v1",
 						"type": "text"
 					}
-				]
+				],
+				"url": {
+					"raw": "{{url}}/users?page",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"users"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": null
+						}
+					]
+				}
 			},
 			"response": []
 		},
